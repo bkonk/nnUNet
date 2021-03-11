@@ -16,7 +16,7 @@
 from nnunet.training.network_training.nnUNetTrainerV2 import nnUNetTrainerV2
 
 
-class nnUNetTrainerV2_fp32(nnUNetTrainerV2):
+class nnUNetTrainerV2_epoch_2(nnUNetTrainerV2):
     """
     Info for Fabian: same as internal nnUNetTrainerV2_2
     """
